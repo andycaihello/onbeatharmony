@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "OnBeat社交音乐平台"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "OnBeat 主入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "OnBeat"
+    },
+    {
+      "name": "permission_internet_reason",
+      "value": "用于访问网络获取音乐数据和用户信息"
+    }
+  ]
+}
